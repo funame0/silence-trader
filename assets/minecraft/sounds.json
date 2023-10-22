@@ -31,5 +31,8 @@
   },
   "entity.llama.ambient": {
     "replace": true
+  },
+  "entity.llama.step": {
+    "replace": true
   }
 }
