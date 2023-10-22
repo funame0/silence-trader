@@ -1,0 +1,35 @@
+{
+  "entity.wandering_trader.ambient": {
+    "replace": true
+  },
+  "entity.wandering_trader.death": {
+    "replace": true
+  },
+  "entity.wandering_trader.disappeared": {
+    "replace": true
+  },
+  "entity.wandering_trader.drink_milk": {
+    "replace": true
+  },
+  "entity.wandering_trader.drink_potion": {
+    "replace": true
+  },
+  "entity.wandering_trader.hurt": {
+    "replace": true
+  },
+  "entity.wandering_trader.no": {
+    "replace": true
+  },
+  "entity.wandering_trader.reappeared": {
+    "replace": true
+  },
+  "entity.wandering_trader.trade": {
+    "replace": true
+  },
+  "entity.wandering_trader.yes": {
+    "replace": true
+  },
+  "entity.llama.ambient": {
+    "replace": true
+  }
+}
